@@ -3,6 +3,9 @@
 <p>🌱 I'm an IT student in bachelor's degree in <b>Strasbourg, France </b><img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> , specialized in development.
 I also develop various projects in my spare time 💻.</p>
 
+<h3>My stats:</h3>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wa-melissa&layout=compact&theme=tokyonight" alt="wa-melissa" /></p>
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
