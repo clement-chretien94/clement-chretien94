@@ -1,6 +1,6 @@
 ## Hi I'm Clément CHRETIEN 👋
 
-<p>🌱 I'm an IT student in bachelor's degree in <b>Strasbourg, France </b><img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> , specializing in development.
+<p>🌱 I'm an IT student in bachelor's degree in <b>Strasbourg, France </b><img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> , specialized in development.
 I also develop various projects in my spare time 💻.</p>
 
 <h3>Things I code with</h3>
